@@ -11,7 +11,7 @@
 	</main>
 
 	<footer>
-		<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
+		<p>Created by <a href="https://geauxweisbeck4.dev">GeauxWeisbeck4.dev</a></p>
 	</footer>
 </div>
 
@@ -20,6 +20,8 @@
 		display: flex;
 		flex-direction: column;
 		min-height: 100vh;
+		background-color: #293949;
+		color: #fff;
 	}
 
 	main {
